@@ -1,0 +1,9 @@
+ordered by wins/attended
+{"(Armada, Melee)": 1.0}
+ordered by top8s/attended
+{"(Armada, Melee)": 1.0, "(Hungrybox, Melee)": 1.0, "(Mang0, Melee)": 1.0, "(SFAT, Melee)": 1.0, "(PPMD, Melee)": 1.0, "(Mew2King, Melee)": 0.5, "(Westballz, Melee)": 0.5, "(Shroomed, Melee)": 0.5, "(Abate, Melee)": 0.5, "(Ice, Melee)": 0.5, "(Nintendude, Melee)": 0.5, "(Axe, Melee)": 0.5}
+ordered by wins/total
+{"(Armada, Melee)": 1.0}
+ordered by top8s/total
+{"(Armada, Melee)": 1.0, "(Hungrybox, Melee)": 1.0, "(Mang0, Melee)": 1.0, "(SFAT, Melee)": 1.0, "(Mew2King, Melee)": 0.5, "(Westballz, Melee)": 0.5, "(Shroomed, Melee)": 0.5, "(Abate, Melee)": 0.5, "(Ice, Melee)": 0.5, "(Nintendude, Melee)": 0.5, "(Axe, Melee)": 0.5, "(PPMD, Melee)": 0.5}
+wins/total/time
